@@ -1,4 +1,4 @@
-####This website was made with help of a code along project for the Code Institute Full Stack Developer course.
+#### This website was made with help of a code along project for the Code Institute Full Stack Developer course.
 
 This website is for educational purposes only. 
 Don’t use real credit card details, instead use the following details for testing purposes:  
